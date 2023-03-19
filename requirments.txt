@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+youtube-dl
+beautifulsoup4
+pytaglib
+ffmpeg
+libtag1-dev

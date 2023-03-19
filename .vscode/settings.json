@@ -1,0 +1,18 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "bilibili",
+        "INNERTUBE",
+        "KHTML",
+        "levelname",
+        "mylist",
+        "Nico",
+        "niconico",
+        "nicovideo",
+        "outtmpl",
+        "playinfo",
+        "referer",
+        "soundcloud",
+        "youtu"
+    ]
+}
